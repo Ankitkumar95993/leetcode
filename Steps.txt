@@ -1,0 +1,8 @@
+create a github account
+ empty repo
+ local system 
+     git config --global user.name " "
+     git congig --global user.email " "
+  git push -u origin master 
+     Username?
+     password? --- token
